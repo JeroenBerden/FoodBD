@@ -1,0 +1,15 @@
+Package: FoodBD
+Type: Package
+Title: Calculation Of Food Biodiversity Indices
+Version: 0.1.0
+Author: Jeroen Berden
+Maintainer: Jeroen Berden <berden.jeroen@gmail.com>
+Description: Provied functionality for my package. These packages allow for the
+  calculations of several food biodiversity indices, and their correspondin
+  conversion to effective species numbers.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.1
+URL: https://github.com/JeroenBerden/FoodBD
+BugReports: https://github.com/JeroenBerden/FoodBD/issues
